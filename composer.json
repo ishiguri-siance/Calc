@@ -1,0 +1,13 @@
+{
+    "name": "sandbox/calc",
+    "authors": [
+        {
+            "name": "test",
+            "email": "test@example.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "6.5.*"
+    }
+}
